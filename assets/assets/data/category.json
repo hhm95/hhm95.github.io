@@ -1,0 +1,181 @@
+[
+    {
+        
+        "name": "Hệ thống xếp sản phẩm lên Pallet",
+        "description": "Hệ thống  sắp Palletizer được coi là giải pháp mang đến sự thay đổi mạnh mẽ trong quy trình sản xuất tạo ra sự khác biệt, cạnh tranh về năng suất hoạt động và thời gian đưa sản phẩm ra thị trường",
+        "image": "assets/images/sp0.jpg",
+        "products": [
+            {
+                "product_name": "High-lever infeed palletizer",
+                "product_image": "assets/image/a1.jpg"
+            },
+            {
+                "product_name": "Low-Level infeed palletizer",
+                "product_image": "assets/image/a2.jpg"
+            },
+            {
+                "product_name": "Robot Palletizer",
+                "product_image": "assets/image/a3.jpg"
+            },
+            {
+                "product_name": "Servo axis palletizer",
+                "product_image": "assets/image/a4.jpg"
+            }
+        ]
+    },
+    {
+    
+        "name": "Máy cuốn màng pallet tự động",
+        "description" : "DMP machinery cung cấp máy cuốn màng pallet bán tự động với nhiều dòng sản phẩm phù hợp đặc thù sản xuất và sản phẩm, tiết kiệm chi phí, hiệu quả cao và linh hoạt trong quá trình sản xuất",
+        "image": "assets/images/sp1.jpg",
+        "products": [
+            {
+                "product_name": "G6 Fully Auto turntable Pallet Wrapper",
+                "product_image": "assets/image/b1.jpg"
+            },
+            {
+                "product_name": "G6+SD1 Fully-Auto Pallet Wrapper + Top Sheet Dispense",
+                "product_image": "assets/image/b2.jpg"
+            },
+            {
+                "product_name": "L3 Fully automatic rotary Arm Wrapping Machine",
+                "product_image": "assets/image/b3.jpg"
+            },
+            {
+                "product_name": "1000 Fully-Auto Orbital Wrapping Machine",
+                "product_image": "assets/image/b4.jpg"
+            }
+        ]
+    
+    },
+    {
+    
+        "name": "Máy cuốn màng pallet bán tự động",
+        "description" : "DMP machinery cung cấp máy cuốn màng pallet bán tự động với nhiều dòng sản phẩm phù hợp đặc thù sản xuất và sản phẩm, tiết kiệm chi phí, hiệu quả cao và linh hoạt trong quá trình sản xuất. ",
+        "image": "assets/images/sp2.jpg",
+        "products": [
+            {
+                "product_name": "G1 pallet wrapper power pre-stretch",
+                "product_image": "assets/image/c1.jpg"
+            },
+            {
+                "product_name": "G1P pallet wrapper with top press arm",
+                "product_image": "assets/image/c3.jpg"
+            },
+            {
+                "product_name": "G2 pallet Wrapper Mechanical Brake",
+                "product_image": "assets/image/c3.jpg"
+            },
+            {
+                "product_name": "G4 Pallet Wrapper with M-type Turntable",
+                "product_image": "assets/image/c4.jpg"
+            }
+        ]
+    },
+    {
+    
+        "name": "Máy đóng đai pallet tự động",
+        "description" : "Là dòng máy đóng đai cho thùng, pallet một cách tự động theo chiều ngang hay chiều dọc. ",
+        "image": "assets/images/sp3.jpg",
+        "products": [
+            {
+                "product_name": "Automatic vertical corner board applicator",
+                "product_image": "assets/image/d1.jpg"
+            },
+            {
+                "product_name": "N-H02 Horizontal pallet strapping machine",
+                "product_image": "assets/image/d2.jpg"
+            },
+            {
+                "product_name": "HN-V01 Fully automatic vertical pallet strapping machine",
+                "product_image": "assets/image/d3.jpg"
+            },
+            {
+                "product_name": "HN-VP01 Side Sealed Pallet Strapper – Vertical Strapping with top press arm",
+                "product_image": "assets/image/d4.jpg"
+            }
+        ]
+    
+    },
+    {
+    
+        "name": "Máy mở, cấp thùng",
+        "description" : "Máy đóng thùng carton tự động được thiết kế hoạt động tự động thông minh, tốc độ cao, phù hợp cho nhiều sản phẩm thùng carton giấy",
+        "image": "assets/images/sp4.jpg",
+        "products": [
+            {
+                "product_name": "K20TK vertical case erector",
+                "product_image": "assets/image/e1.jpg"
+            },
+            {
+                "product_name": "K20TX vertical case erector",
+                "product_image": "assets/image/e2.jpg"
+            }
+        ]
+    
+    },
+    {
+    
+        "name": "Hệ thống băng tải",
+        "description" : "DMP tự hào là đơn vị sản xuất Băng Tải Uy tín, giúp các doanh nghiệp trên toàn quốc tự động hóa hệ thống sản xuất. ",
+        "image": "assets/images/sp5.jpg",
+        "products": [
+            {
+                "product_name": "Băng tải belt PVC",
+                "product_image": "assets/image/f1.jpg"
+            },
+            {
+                "product_name": "Băng tải con lăn",
+                "product_image": "assets/image/f2.jpg"
+            },
+            {
+                "product_name": "Băng tải xích con lăn tự do",
+                "product_image": "assets/image/f3.jpg"
+            },
+            {
+                "product_name": "Băng tải xích nhựa",
+                "product_image": "assets/image/f4.jpg"
+            }
+        ]
+    },
+    {
+    
+        "name": "Giải Pháp Tự Động Hóa",
+        "description" : "DMP Machinery cung cấp cung cấp các loại máy tự động chuyên dụng để lắp ráp, kiểm tra tự động các sản phẩm, bộ phận, cụm máy theo yêu cầu.",
+        "image": "assets/images/sp6.jpg",
+        "products": [
+            {
+                "product_name": "Máy cấp liệu trục vít, máy lắp ráp",
+                "product_image": ""
+            },
+            {
+                "product_name": "Máy cắt bảng mạch, phích cắm linh kiện PCB, loa",
+                "product_image": ""
+            },
+            {
+                "product_name": "Máy tiện ren trục, máy đùn cos dây tín hiệu",
+                "product_image": ""
+            },
+            {
+                "product_name": "Máy cấp keo, máy sấy UV, máy cắt màng, máy ép màng",
+                "product_image": ""
+            },
+            {
+                "product_name": "Máy đóng gói thấu kính, SMT, SPL, cắm linh kiện điện tử",
+                "product_image": ""
+            },
+            {
+                "product_name": "Máy lão hóa, linh kiện máy hàn siêu âm…",
+                "product_image": ""
+            }
+        ]
+    },
+    {
+    
+        "name": "Thiết Bị Phụ Trợ",
+        "description" : "Thiết bị công nghiệp phụ trợ là khái niệm chỉ toàn bộ những thiết bị công nghiệp có vai trò hỗ trợ cho việc sản xuất các thành phẩm chính.",
+        "image": "assets/images/sp7.jpg",
+        "products" : []
+    
+    }
+    ]
